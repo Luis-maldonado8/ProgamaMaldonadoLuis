@@ -1,3 +1,7 @@
+/* Programa: Suma.cpp
+   Autot: Luis Maldonado
+   Fecha: 2023-09-14
+   Descripcuon: Suma dos numeros*/
 #include<iostream>
 using namespace std;
 
